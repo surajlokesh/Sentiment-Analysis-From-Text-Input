@@ -69,10 +69,6 @@ Contributions are welcome! Please follow these steps:
     4.	Push to the branch (git push origin feature-branch).
     5.	Create a new Pull Request.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 This version includes the Markdown formatting using `##` for headings, `**` for bold, and code blocks with triple backticks (` ``` `), starting from step 2 (Create a virtual environment).
 
 Let me know if this works or if you need more adjustments!
